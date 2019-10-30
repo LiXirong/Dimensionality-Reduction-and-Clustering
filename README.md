@@ -1,5 +1,8 @@
 # Dimensionality-Reduction-and-Clustering
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 This repository contains:
 
 1. Some dimensionalit reduction algorithms.(PCA, Kernel PCA, t-SNE, LDA, FA, FastICA, LLE.ipynb[PCA, Kernel PCA, t-SNE, LDA, FA, FastICA, LLE.ipynb](https://github.com/LiXirong/Dimensionality-Reduction-and-Clustering/blob/master/PCA%2C%20Kernel%20PCA%2C%20t-SNE%2C%20LDA%2C%20FA%2C%20FastICA%2C%20LLE.ipynb))
